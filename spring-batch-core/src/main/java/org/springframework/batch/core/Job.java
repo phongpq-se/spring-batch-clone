@@ -25,7 +25,6 @@ import org.springframework.lang.Nullable;
  *
  * @author Dave Syer
  * @author Mahmoud Ben Hassine
- * @author Phong Pham p
  */
 public interface Job {
 
