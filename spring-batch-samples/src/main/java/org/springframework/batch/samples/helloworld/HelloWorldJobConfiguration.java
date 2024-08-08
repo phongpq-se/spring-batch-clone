@@ -45,5 +45,4 @@ public class HelloWorldJobConfiguration {
 	public Job job(JobRepository jobRepository, Step step) {
 		return new JobBuilder("job", jobRepository).start(step).build();
 	}
-
 }

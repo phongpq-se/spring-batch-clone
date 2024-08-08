@@ -20,7 +20,8 @@
 		<module>spring-batch-samples</module>
 		<module>spring-batch-docs</module>
 		<module>spring-batch-bom</module>
-	</modules>
+        <module>spring-batch-simple</module>
+    </modules>
 
 	<organization>
 		<name>Spring</name>
